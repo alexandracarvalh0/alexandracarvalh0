@@ -3,7 +3,7 @@
 - ✔ Especializada em Front-End
 - 🌱 Estudando JavaScript
 - 👀 Interessada em Back-End
-- 📫 Contacte-me pelo Email/Instagram
+- 📫 Contacte-me pelo Email/Website
 
 <div align="center">
   <a href="https://github.com/alexandracarvalh0">

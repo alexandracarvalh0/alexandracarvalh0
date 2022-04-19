@@ -2,7 +2,7 @@
 
 - ✔ Especializada em Front-End
 - 🌱 Estudando JavaScript
-- 👀 Interessada em Back-End
+- 👀 Interessada em CiberSegurança
 - 📫 Contacte-me pelo Email/Website
 
 <div align="center">

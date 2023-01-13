@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Alexandra 👋
 
 - ✔ Especializada em Front-End
-- 🌱 Estudando Java, 
+- 🌱 Estudando Java 
 - 👀 Interessada em Java Developer
 - 📫 Contacte-me pelo Email/Website
 
